@@ -1,6 +1,4 @@
 # portfolio-tracker-api 
-# Portfolio Tracker API
-
 Une API REST minimale et performante développée en C# avec .NET 8 (Minimal API) pour gérer un portefeuille d'actifs financiers. Ce service backend autonome applique les principes modernes du développement web : opérations asynchrones, injection de dépendances, validation des entrées et persistance des données en mémoire via Entity Framework Core InMemory.
 
 ## Fonctionnalités
